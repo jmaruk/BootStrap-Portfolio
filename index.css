@@ -12,4 +12,14 @@ h1 {
 
 p {
     color: white;
+    margin: 20px;
+}
+
+.about-me-content {
+    
+    margin: 40px;
+}
+
+.ContentArea {
+    display: inline-flex;
 }
